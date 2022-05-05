@@ -1,2 +1,2 @@
-# Instagram---Auto-Login-Bot
+# Instagram-Auto-Login-Bot
 Lessyz - Instagram Auto Login Bot
