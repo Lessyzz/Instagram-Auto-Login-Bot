@@ -28,8 +28,7 @@ password_box.send_keys(pwd)
 login_box = driver.find_element_by_css_selector("#loginForm > div > div:nth-child(3) > button > div") 
 login_box.click() 
   
-driver.quit() 
 print("Thx for the using Lessy - Instagram Bot ^^") 
-sleep(2)
+sleep(100000)
 
 #end
